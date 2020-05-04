@@ -100,6 +100,10 @@ In order to complete this assignment, you must do the following:
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
 
+
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+###updates
+I want to add the update if you aren't super familiar with Git, you will need to reset the origin to get your cacheMatrix.R file to go into the right repository, and not another directory from the previous class in this sequence of courses.  That class sets up a directory (the data scientist's toolbox). I suggest you google and reset your directory in R sTudio to match up with the repo in Git for this assigment (not mentioned in original instructions).
